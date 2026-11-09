@@ -18,7 +18,7 @@ Abra http://localhost:4173. Sirva a pasta por HTTP; abrir o HTML diretamente pel
 
 ## Recursos
 
-- 13 mockups com camadas nativas de 2304 × 3072 pixels.
+- 16 mockups com camadas nativas de 2304 × 3072 pixels.
 - Upload PNG, JPEG ou WebP, com encaixe completo ou preenchimento, zoom e posição.
 - Brilho, contraste, saturação e temperatura separados para tela e cena.
 - Tonalização do metal com máscara de geometria e intensidade ajustável do reflexo do vidro.
@@ -40,7 +40,7 @@ dist/
   renderer.js       Composição WebGL e homografia
   assets/
     catalog.json    Modelos e coordenadas de projeção
-    01/ … 14/       Base, tela, máscaras, vidro e oclusão
+    01/ … 17/       Base, tela, máscaras, vidro e oclusão
 .openai/hosting.json Configuração da publicação existente em Sites
 ```
 
@@ -49,3 +49,7 @@ Os ativos derivam da coleção Insany Revision05. O modelo 07 não está incluí
 Os controles de cor atuam em pós-produção. O vidro é uma aproximação estática ajustável; alterações físicas de iluminação e geometria exigem novo render no Blender.
 
 Código e ativos pertencem à Insany. Nenhuma licença pública de redistribuição é concedida por este repositório.
+
+## Tablets com braço articulado
+
+Modelos 15–17: esquerda, direita e vista baixa, com os mesmos materiais e fundo da coleção. Fontes Blender e masters de 16 bits são mantidos no projeto de criação. As camadas web têm 2304 × 3072 pixels nativos; a arte plana tem 2752 × 2064. A exportação web usa a resolução nativa e não depende da escala do Mockup Plugin do Figma.
