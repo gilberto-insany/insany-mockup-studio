@@ -449,32 +449,44 @@
     "id": "16",
     "name": "Braço articulado · direita",
     "family": "Tablet",
-    "width": 2304,
-    "height": 3072,
+    "width": 4608,
+    "height": 6144,
     "aspect": 1.3333333333333333,
     "quad": [
       [
-        0.14168408513069153,
-        0.091671884059906
+        0.1506420224905014,
+        0.15838003158569336
       ],
       [
-        0.9000000357627869,
-        0.12339705228805542
+        0.8899999260902405,
+        0.18931198120117188
       ],
       [
-        0.8521263003349304,
-        0.6283276379108429
+        0.8433230519294739,
+        0.6816193163394928
       ],
       [
-        0.10000001639127731,
-        0.5608335137367249
+        0.10999999940395355,
+        0.6158125400543213
       ]
     ],
     "sourcePixels": [
-      2752,
-      2064
+      6144,
+      4608
     ],
-    "asset": "assets/16"
+    "asset": "assets/16",
+    "previewAsset": "assets/16/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "T02",
+    "assetVersion": "cinema-v18"
   },
   {
     "id": "17",
@@ -637,6 +649,49 @@
     "assetVersion": "cinema-v18"
   },
   {
+    "id": "25",
+    "name": "Bloco mineral",
+    "family": "MacBook",
+    "width": 4608,
+    "height": 6144,
+    "aspect": 1.5450643776824033,
+    "quad": [
+      [
+        0.08426538109779358,
+        0.24891281127929688
+      ],
+      [
+        0.6907021999359131,
+        0.32106196880340576
+      ],
+      [
+        0.6949686408042908,
+        0.6310871243476868
+      ],
+      [
+        0.07132788747549057,
+        0.5788829028606415
+      ]
+    ],
+    "sourcePixels": [
+      6144,
+      3977
+    ],
+    "asset": "assets/25",
+    "previewAsset": "assets/25/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "N04",
+    "assetVersion": "cinema-v18"
+  },
+  {
     "id": "26",
     "name": "Tecido canelado",
     "family": "MacBook",
@@ -677,6 +732,49 @@
     ],
     "nativeRender": true,
     "sourceSceneId": "N05",
+    "assetVersion": "cinema-v18"
+  },
+  {
+    "id": "27",
+    "name": "Estrutura cromada",
+    "family": "MacBook",
+    "width": 4608,
+    "height": 6144,
+    "aspect": 1.5450643776824033,
+    "quad": [
+      [
+        0.07576888799667358,
+        0.2762877345085144
+      ],
+      [
+        0.7186160087585449,
+        0.3245745301246643
+      ],
+      [
+        0.72844398021698,
+        0.6437121331691742
+      ],
+      [
+        0.06972495466470718,
+        0.6125513017177582
+      ]
+    ],
+    "sourcePixels": [
+      6144,
+      3977
+    ],
+    "asset": "assets/27",
+    "previewAsset": "assets/27/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "N06",
     "assetVersion": "cinema-v18"
   }
 ]
