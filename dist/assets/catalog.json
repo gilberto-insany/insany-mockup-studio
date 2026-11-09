@@ -575,6 +575,49 @@
     "assetVersion": "cinema-v21"
   },
   {
+    "id": "19",
+    "name": "Estrutura metálica · direita",
+    "family": "Monitor",
+    "width": 4608,
+    "height": 6144,
+    "aspect": 1.7777777777777777,
+    "quad": [
+      [
+        0.15080174803733826,
+        0.3340844511985779
+      ],
+      [
+        0.9000001549720764,
+        0.15505093336105347
+      ],
+      [
+        0.8839581608772278,
+        0.5606111884117126
+      ],
+      [
+        0.10000007599592209,
+        0.7049489915370941
+      ]
+    ],
+    "sourcePixels": [
+      6144,
+      3456
+    ],
+    "asset": "assets/19",
+    "previewAsset": "assets/19/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "M02",
+    "assetVersion": "cinema-v21"
+  },
+  {
     "id": "22",
     "name": "Primeiro plano · esquerda",
     "family": "MacBook",

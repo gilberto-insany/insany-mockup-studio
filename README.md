@@ -18,8 +18,8 @@ Abra http://localhost:4173. Sirva a pasta por HTTP para carregar o catálogo.
 
 ## Recursos
 
-- 23 mockups de monitores, tablets e MacBooks.
-- 10 modelos com camadas nativas de 4608 × 6144; os 13 demais preservam 2304 × 3072.
+- 24 mockups de monitores, tablets e MacBooks.
+- 11 modelos com camadas nativas de 4608 × 6144; os 13 demais preservam 2304 × 3072.
 - Upload PNG, JPEG ou WebP, preenchimento ou imagem inteira, zoom e posição.
 - Brilho, contraste, saturação e temperatura separados para tela e cena.
 - Cor do corpo com máscara de geometria e intensidade ajustável do reflexo do vidro.
