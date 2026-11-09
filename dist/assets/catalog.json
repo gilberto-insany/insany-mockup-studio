@@ -442,7 +442,8 @@
       "body-mask.png"
     ],
     "nativeRender": true,
-    "sourceSceneId": "T01"
+    "sourceSceneId": "T01",
+    "assetVersion": "cinema-v18"
   },
   {
     "id": "16",
@@ -507,6 +508,92 @@
     "asset": "assets/17"
   },
   {
+    "id": "22",
+    "name": "Primeiro plano · esquerda",
+    "family": "MacBook",
+    "width": 4608,
+    "height": 6144,
+    "aspect": 1.5450643776824033,
+    "quad": [
+      [
+        0.09737607091665268,
+        0.23507118225097656
+      ],
+      [
+        0.664562463760376,
+        0.3439226746559143
+      ],
+      [
+        0.6610738039016724,
+        0.6449286937713623
+      ],
+      [
+        0.07349321246147156,
+        0.5571205914020538
+      ]
+    ],
+    "sourcePixels": [
+      6144,
+      3977
+    ],
+    "asset": "assets/22",
+    "previewAsset": "assets/22/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "N01",
+    "assetVersion": "cinema-v18"
+  },
+  {
+    "id": "23",
+    "name": "Primeiro plano · direita",
+    "family": "MacBook",
+    "width": 4608,
+    "height": 6144,
+    "aspect": 1.5450643776824033,
+    "quad": [
+      [
+        0.33417171239852905,
+        0.4310823082923889
+      ],
+      [
+        0.9028624892234802,
+        0.3261566758155823
+      ],
+      [
+        0.9265491962432861,
+        0.6505894660949707
+      ],
+      [
+        0.33832451701164246,
+        0.7338434457778931
+      ]
+    ],
+    "sourcePixels": [
+      6144,
+      3977
+    ],
+    "asset": "assets/23",
+    "previewAsset": "assets/23/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "N02",
+    "assetVersion": "cinema-v18"
+  },
+  {
     "id": "26",
     "name": "Tecido canelado",
     "family": "MacBook",
@@ -546,6 +633,7 @@
       "body-mask.png"
     ],
     "nativeRender": true,
-    "sourceSceneId": "N05"
+    "sourceSceneId": "N05",
+    "assetVersion": "cinema-v18"
   }
 ]
