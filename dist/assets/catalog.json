@@ -490,34 +490,89 @@
   },
   {
     "id": "17",
-    "name": "Braço articulado · baixo",
+    "name": "Braço articulado · vista baixa",
     "family": "Tablet",
-    "width": 2304,
-    "height": 3072,
+    "width": 4608,
+    "height": 6144,
     "aspect": 1.3333333333333333,
     "quad": [
       [
-        0.09500005841255188,
-        0.11369025707244873
+        0.11000007390975952,
+        0.18281292915344238
       ],
       [
-        0.8593407273292542,
-        0.16235846281051636
+        0.8460318446159363,
+        0.22967857122421265
       ],
       [
-        0.9049999117851257,
-        0.6063096523284912
+        0.8899999856948853,
+        0.6571871340274811
       ],
       [
-        0.1181844100356102,
-        0.5854227244853973
+        0.13232581317424774,
+        0.6370737552642822
       ]
     ],
     "sourcePixels": [
-      2752,
-      2064
+      6144,
+      4608
     ],
-    "asset": "assets/17"
+    "asset": "assets/17",
+    "previewAsset": "assets/17/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "T03",
+    "assetVersion": "cinema-v18"
+  },
+  {
+    "id": "18",
+    "name": "Bandeja perfurada · esquerda",
+    "family": "Monitor",
+    "width": 4608,
+    "height": 6144,
+    "aspect": 1.7777777777777777,
+    "quad": [
+      [
+        0.10000021010637283,
+        0.16016781330108643
+      ],
+      [
+        0.825520932674408,
+        0.3357386589050293
+      ],
+      [
+        0.900000274181366,
+        0.6798321008682251
+      ],
+      [
+        0.1456339806318283,
+        0.5406262874603271
+      ]
+    ],
+    "sourcePixels": [
+      6144,
+      3456
+    ],
+    "asset": "assets/18",
+    "previewAsset": "assets/18/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "M01",
+    "assetVersion": "cinema-v18"
   },
   {
     "id": "22",
