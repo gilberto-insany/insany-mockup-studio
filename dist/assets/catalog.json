@@ -594,6 +594,49 @@
     "assetVersion": "cinema-v18"
   },
   {
+    "id": "24",
+    "name": "Pedestal alto",
+    "family": "MacBook",
+    "width": 4608,
+    "height": 6144,
+    "aspect": 1.5450643776824033,
+    "quad": [
+      [
+        0.30929774045944214,
+        0.5010620951652527
+      ],
+      [
+        0.915734589099884,
+        0.4289129376411438
+      ],
+      [
+        0.9286721348762512,
+        0.7588831037282944
+      ],
+      [
+        0.30503132939338684,
+        0.8110873103141785
+      ]
+    ],
+    "sourcePixels": [
+      6144,
+      3977
+    ],
+    "asset": "assets/24",
+    "previewAsset": "assets/24/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "N03",
+    "assetVersion": "cinema-v18"
+  },
+  {
     "id": "26",
     "name": "Tecido canelado",
     "family": "MacBook",
