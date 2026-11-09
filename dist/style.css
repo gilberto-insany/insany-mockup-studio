@@ -7,3 +7,5 @@
 .brand-logo{display:block;width:150px;height:auto;flex-shrink:0}
 @media(max-width:800px){.brand-logo{width:110px}}
 @media(max-width:480px){.brand-logo{width:120px}.brand .slash,.brand .brand-sub{display:none}}
+
+.tabs.four{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}

@@ -406,32 +406,43 @@
     "id": "15",
     "name": "Braço articulado · esquerda",
     "family": "Tablet",
-    "width": 2304,
-    "height": 3072,
+    "width": 4608,
+    "height": 6144,
     "aspect": 1.3333333333333333,
     "quad": [
       [
-        0.09000003337860107,
-        0.13208961486816406
+        0.11000006645917892,
+        0.20320731401443481
       ],
       [
-        0.888785719871521,
-        0.11234986782073975
+        0.8698205351829529,
+        0.1844305396080017
       ],
       [
-        0.9100000262260437,
-        0.5670179426670074
+        0.8899999856948853,
+        0.6169196963310242
       ],
       [
-        0.11660342663526535,
-        0.6076498329639435
+        0.13530567288398743,
+        0.6555695235729218
       ]
     ],
     "sourcePixels": [
-      2752,
-      2064
+      6144,
+      4608
     ],
-    "asset": "assets/15"
+    "asset": "assets/15",
+    "previewAsset": "assets/15/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "T01"
   },
   {
     "id": "16",
@@ -494,5 +505,47 @@
       2064
     ],
     "asset": "assets/17"
+  },
+  {
+    "id": "26",
+    "name": "Tecido canelado",
+    "family": "MacBook",
+    "width": 4608,
+    "height": 6144,
+    "aspect": 1.5450643776824033,
+    "quad": [
+      [
+        0.3237379789352417,
+        0.3229660987854004
+      ],
+      [
+        0.9179102778434753,
+        0.24859356880187988
+      ],
+      [
+        0.9286527037620544,
+        0.5785003900527954
+      ],
+      [
+        0.3178709149360657,
+        0.6314064860343933
+      ]
+    ],
+    "sourcePixels": [
+      6144,
+      3977
+    ],
+    "asset": "assets/26",
+    "previewAsset": "assets/26/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "N05"
   }
 ]
