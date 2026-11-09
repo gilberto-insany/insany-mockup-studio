@@ -618,6 +618,92 @@
     "assetVersion": "cinema-v21"
   },
   {
+    "id": "20",
+    "name": "Pedestal perfurado · alto",
+    "family": "Monitor",
+    "width": 4608,
+    "height": 6144,
+    "aspect": 1.7777777777777777,
+    "quad": [
+      [
+        0.09753389656543732,
+        0.1496434211730957
+      ],
+      [
+        0.9200000166893005,
+        0.3176358938217163
+      ],
+      [
+        0.8743891716003418,
+        0.6903564631938934
+      ],
+      [
+        0.08000006526708603,
+        0.5076510906219482
+      ]
+    ],
+    "sourcePixels": [
+      6144,
+      3456
+    ],
+    "asset": "assets/20",
+    "previewAsset": "assets/20/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "M03",
+    "assetVersion": "cinema-v21"
+  },
+  {
+    "id": "21",
+    "name": "Mesa diagonal · baixo",
+    "family": "Monitor",
+    "width": 4608,
+    "height": 6144,
+    "aspect": 1.7777777777777777,
+    "quad": [
+      [
+        0.17631956934928894,
+        0.11662930250167847
+      ],
+      [
+        0.9143200516700745,
+        0.3069003224372864
+      ],
+      [
+        0.9299995303153992,
+        0.7033706605434418
+      ],
+      [
+        0.16999976336956024,
+        0.5390599071979523
+      ]
+    ],
+    "sourcePixels": [
+      6144,
+      3456
+    ],
+    "asset": "assets/21",
+    "previewAsset": "assets/21/preview",
+    "layerFiles": [
+      "base.png",
+      "art.png",
+      "mask.png",
+      "glass.png",
+      "foreground.png",
+      "body-mask.png"
+    ],
+    "nativeRender": true,
+    "sourceSceneId": "M04",
+    "assetVersion": "cinema-v21"
+  },
+  {
     "id": "22",
     "name": "Primeiro plano · esquerda",
     "family": "MacBook",
@@ -748,7 +834,7 @@
   },
   {
     "id": "25",
-    "name": "Bloco mineral",
+    "name": "Bloco preto acetinado",
     "family": "MacBook",
     "width": 4608,
     "height": 6144,
@@ -787,11 +873,11 @@
     ],
     "nativeRender": true,
     "sourceSceneId": "N04",
-    "assetVersion": "cinema-v18"
+    "assetVersion": "cinema-v22"
   },
   {
     "id": "26",
-    "name": "Tecido canelado",
+    "name": "Base canelada preta",
     "family": "MacBook",
     "width": 4608,
     "height": 6144,
@@ -830,7 +916,7 @@
     ],
     "nativeRender": true,
     "sourceSceneId": "N05",
-    "assetVersion": "cinema-v18"
+    "assetVersion": "cinema-v22"
   },
   {
     "id": "27",
